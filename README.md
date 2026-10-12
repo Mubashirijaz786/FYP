@@ -32,6 +32,19 @@
 - **Supervisor:** Muhammad Fahad
 - **Discussion:** Met with the supervisor to further discuss the **Market on Wheels** project and its initial planning. During the meeting, we were instructed to prepare an **initial project proposal draft** covering the basic project idea, problem, proposed solution, scope, and methodology. The initial draft will be prepared and discussed with the supervisor in the next meeting scheduled for **Friday, October 2, 2026**, so that further improvements can be made according to the supervisor's feedback.
 
+### Meeting 4
+
+- **Date:** Friday, October 2, 2026
+- **Supervisor:** Muhammad Fahad
+- **Discussion:** During this meeting, we had a detailed discussion with our supervisor regarding the initial planning and requirements of **Market on Wheels**. The supervisor instructed us to prepare a **Gantt chart** outlining the project's development activities and timeline. We were also asked to identify and shortlist the **vendor categories** that would be included in our marketplace and prepare a list of the required registration and account information for the four main user roles: **Customers, Vendors, Riders, and Administrators**. These tasks were assigned to help us organize the initial system requirements and establish a clearer direction for further development.
+
+### Meeting 5
+
+- **Date:** Friday, October 9, 2026
+- **Supervisor:** Muhammad Fahad
+- **Discussion:** During this meeting, we presented the completed tasks assigned in the previous meeting to our supervisor for review. We demonstrated the **Gantt chart**, which included the planned project activities and overall development timeline. We also presented our shortlisted **vendor categories**, including grocery stores, pharmacies, restaurants, bakeries, dairy shops, and other everyday shopping businesses.
+
+  Additionally, we submitted and discussed the **required registration and account information** that we had identified for Customers, Vendors, Riders, and Administrators. The supervisor reviewed our prepared work, and we held further discussions about the **overall system workflow, multi-vendor ordering concept, delivery management, and project requirements** to guide the next stages of development.
 ---
 
 ## Project Overview
